@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .container{
+    border: 2px solid lightblue;
+    height: 70vh;
+    padding: 1rem 2rem;
+    overflow: auto;
+  }
+  button{
+    padding: 0.2rem 0.5rem;
+    background-color: aqua;
+  
+  }
+  
+  

@@ -1,4 +1,4 @@
-# Portle-task
+
 
 ### This is an an editor using Draft.js within ReactJS with the following specifications:
 
